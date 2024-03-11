@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710125216 source:d:\c++\trening\string.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1710124908 d:\c++\trening\string.h\string.h
+
+1710125280 source:d:\c++\trening\string.h\string.c
+
